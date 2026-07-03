@@ -4,13 +4,13 @@ Computer Science student at The University of Western Australia.
 
 Interested in:
 
-• Quantitative Finance
+  • Quantitative Finance
 
-• FinTech
+  • FinTech
 
-• Machine Learning
+  • Machine Learning
 
-• Financial Risk Analytics
+  • Financial Risk Analytics
 
 Featured Projects
 
